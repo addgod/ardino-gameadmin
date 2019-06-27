@@ -436,7 +436,7 @@
           "help": {
             "online": "https://forums.adafruit.com"
           },
-          "url": "/home/jkh/Downloads/adafruit-1.3.4.tar.bz2",
+          "url": "https://github.com/addgod/ardino-gameadmin/raw/master/adafruit-1.3.4.tar.bz2",
           "toolsDependencies": [],
           "size": "90327"
         },
